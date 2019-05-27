@@ -1,4 +1,4 @@
-# Emotions are physical and cognitive
+# Emotions Are Physical and Cognitive
 
 This chapter emphasizes on two aspects of emotions: physical and cognitive.
 
