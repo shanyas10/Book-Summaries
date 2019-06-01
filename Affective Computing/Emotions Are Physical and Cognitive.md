@@ -78,7 +78,7 @@ This chapter emphasizes on two aspects of emotions: physical and cognitive.
 		- Cognitive interpretation of the environment
 		- Scientists haven't yet found how people arrive at the valenced decisions of good vs bad etc. (Note that this could have been changed since the book was written in 1997)
 		- Cognitively generated emotions are often not expressed in readily observable waysbut may occur in thoughts.
-		- **Science might be able to find a process of recovering somebody's thoughts by looking at various brain signals produced while thinking those thoughts: Inverse Problem (goal is to invert the signal generation process to reconstruct the thoughts that gave rise to the fignals **) (Extremely Difficult but Extremely interesting)
+		- **Science might be able to find a process of recovering somebody's thoughts by looking at various brain signals produced while thinking those thoughts: Inverse Problem (goal is to invert the signal generation process to reconstruct the thoughts that gave rise to the fignals**) (Extremely Difficult but Extremely interesting)
 	* Emotions and Creativity
 		- Cognitive mechanisms of creativity are not very well understood
 		- Is there a link between emotions and creativity? If yes, one would expect highly creative people to exhibit greater emotionality.
