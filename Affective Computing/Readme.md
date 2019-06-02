@@ -4,7 +4,7 @@ She provides scientific explainations and findings that indicate the essential r
 
 #### Envisioning Affective Computing
   1. [Emotions Are Physical and Cognitive](https://github.com/thechange/Book-Summaries/blob/master/Affective%20Computing/Emotions%20Are%20Physical%20and%20Cognitive.md)
-  2. [Affective Computers]
+  2. [Affective Computers](https://github.com/thechange/Book-Summaries/blob/master/Affective%20Computing/Affective%20Computers.md)
   3. [Applications of Affective Computing]
   4. [Potential Concerns]
 
