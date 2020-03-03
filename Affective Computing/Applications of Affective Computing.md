@@ -30,7 +30,7 @@ This chapter suggests applications of affective computing in entertainment, lear
 	- To complicate matters, the answer to this question will be user-dependent. Experienced teachers say it is important to detect the level of engagement and level of frustration of a student.
 	- Offering help that can interrupt user's engagement can be disruptive, while acknowledging the user's frustration, even subtly can encourage perseverance.
 
-6. **"Fast forwrd to interesting part"**:
+6. **"Fast forward to interesting part"**:
 	- Helping computers see as people see.
 	- Tools that aid consumers and filmamkers in retrieving and editing video. E.g. "Fast forward to dinosaur scene."
 	- A much harder goal is to "make the long story short."
