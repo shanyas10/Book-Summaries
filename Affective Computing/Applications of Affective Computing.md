@@ -39,6 +39,6 @@ This chapter suggests applications of affective computing in entertainment, lear
 	- Arousal (excited/calm) has been found to be a better predictor of memory retention than valence(pleasure/displeasure).
 	- Affective annotations, especially in terms of a few basic emotions or a few dimensions of emotions, could provide a relatively compact and salient index for retrieval of data. For example, instead of annotating, "this is a sunny daytime shot of a student getting diploma and jumping off the stage", the human might annotate "this shot of a student getting his diploma nd jumping off the stage *evokes a grin*."
 
-	![Arousal/Valence model](https://i.pinimg.com/originals/5e/3f/22/5e3f22e4edabd7b8d221630f021ee04f.jpg)
+	<!-- ![Arousal/Valence model](https://i.pinimg.com/originals/5e/3f/22/5e3f22e4edabd7b8d221630f021ee04f.jpg) -->
 
 	
