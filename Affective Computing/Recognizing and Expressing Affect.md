@@ -6,20 +6,23 @@ This chapter casts affect recognition as a pattern recignition problem and descr
 	- One of the biggest questions in affect recognition in, "What are the couplings between affective states and their patterns of expression?"
 	- No single signal is a trusted indicator of emotional response, hence patterns of signals are needed.
 	- It is important to mention what kind of success we can expect. A reasonable criterion of success is to get a computer to recognize affect as well as another person, i.e. better than chance but below 100% accuracy.
-	- 
+	
 	- **Basic Emotions and Discrete Categories**
 		- Over the years, various researchers have proposed that there are from two to twenty "basic emotions".
 		- The most thorough definition of basic emotions has been given by Paul Ekman who has linked basic emotions to those which have distinctive universal facial expressions associated with them, as wll as eight other properties.
 		- But should emotions be represented as discrete categories, or otherwise.
+
 	- **Emotion Spaces and Continuous Dimensions**
 		- Three continuous dimensions show up most commonly, although only two - arousal(calm/excited) and valence(positive/negative) are agreed on.
 		- A number of researches have also proposed various mappings between continuous dimensions of emotions and basic emotion categories.
 		- Both, discrete and countinuous representations have uses and limitations. 
+
 	- **Universal vs Person-Specific**
 		- The study of this is complicated by factors as how emotion is defined, elicited, expressed, and communicated. 
 		- One of the potential benefits of affective computing lies in its ability to make measurements and analyze patterns of affective signals, conditioned on the individuals and circumstances affecting them.
 		- Solution proposed by affective computing is, first, person-specific- measuring data for individuals of all kinds, and second, universal- examining the individual data to see what common patterns are present.
 		- Individual factors such as temperaments affect thresholds of expression, as well as other physiological characteristics.
+
 	- **Pure vs Mixed**
 		- Do emotions mix together like chemicals and paints or according to some mathematical function.
 		- Clynes has found un sentograph measurements of finger pressure that an expression of melancholy begins with a form that looks like love and ends with a form that looks like sadness (Clynes, 1977).
@@ -28,13 +31,16 @@ This chapter casts affect recognition as a pattern recignition problem and descr
 		- Given emotions are short events, these overlaps must not be significant. With this reasoning, one can predict that a primary emotion like fear, generated initially in amgydala, could coexist with a cognitively-generated state like anticipation.
 		- Cognitive events can interfere with the purity of emotions. However certain cognitive events such as lying can inhibit certain emotional expression (love) and not others (anger).
 		- Theories that examine purity of emotions through their power to be expressed bodily empirically testable with an affective computer that can model emotional states for synthesis and recognition.
+
 2. **Modeling Affective Patterns**
+
 	- **Recognizing and Synthesizing Facial Expessions**
 		- Facial expressions are most easily controlled of all the expressions. However, because they are also the most visible, they are very important and it is wise to observe them to assess what a person is trying to communicate.
 		- Facial expression recognition from video involves capturing spatio-temporal patterns of both local and global changes on the human face, and relating these patters to a category of emotion.
 		- It should be noted that recognizing a facial expression is not always the same as recognizing the emotion that generated it.
 		- Continuous expression recognition is difficult in the same sense that continuous speech recognition is difficult- finding the word boundaries, or in this case the expression boundaries, needs to happen simultaneously with identification of expression.
 		- For optimal performance, computer systems that recognize a facial expression would first have to calibrate the subject's expressive range, a form of "getting to know them", before the systems could become adept at recognizing their expressions.
+
 	- **Synthesizing and Recognizing Affective Vocal Intonation (Interesting)**
 		- Traditional efforts in computer based speech recognition have focused on recognition of *what* is said. More recently, efforts gave also been made to teach computers *who* is speaking.
 		- Usually the subtle qualities of *how* something is being said have been treated as noise for these problems.
@@ -46,16 +52,19 @@ This chapter casts affect recognition as a pattern recignition problem and descr
 		- But mappings between emotions and vocal features in humans will vary depending on the context. For example, sometimes and angry person will raise their voice and sometimes they will lower it. Determining all the possibilities is an open research problem.
 		- Affective cues most readily communicate arousal; the communication of valence is believed to be by more subtle cues, interwined with the content of the speech. 
 		- Mood of the subjects should be taken into consideration during recognition experiments.
+
 	- **Combinations of Face and Voice**
 		- A promising area of research is that of combining facial expression and vocal expression to improve recognition results in both domains. 
 		- The combination of the two is complimentary given that arousal is more easily discriminated in speech and valence is more easily discriminated in facial expressions.
 		- In people, teh combination of visual and auditory abilities provide richer and more accurate communication; it should also lead to improved performance for computers trying to recognize human affect.
+
 	- **Physiological Pattern Recognition**
 		- Patterns if features extracted from physiological signals can be used by a computer to recognize affective information.
 		- The idea is to have the computer observe multiple signals gathered while a person is experiencing an emotion and learn which patterns of physiological signals are the most indicative of which affective state.
 		- Step 1 in anlayzing the signals is to normalize a signal so that every emotion signal on every day has zero mean and unit variance.
 		- Step 2 involves computing features of the raw and normalized signals. The decision of which features to compute is mostly an art, since there are an unlimited number of possibilities.
-		- Combining information sensed from a user with both expressive and contextual information from cameras and microphones, provode a rich opportunity for a computer to understand more about its user's affective responses
+		- Combining information sensed from a user with both expressive and contextual information from cameras and microphones, provode a rich opportunity for a computer to understand more about its user's affective responses.
+		
 	- **Models for Affective Behavior**
 		- Models need to be capable of recognizing that you might express an emotion through a combination of modalities. For example, you might frown when you're sad but sadness might also show up in your posture and voice.
 		- A Hidden Markov Model can learn probabilities by training on observations, which could be any measurements of sentic modulation such as changes in voice inflection, facial expression, or autonomic changes such as heart rate.

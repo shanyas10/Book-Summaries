@@ -3,14 +3,16 @@
 This chapter describes emotion synthesis, specifically focusing on models that employ both cognitive and non-cognitive mechanisms for generating emotion. Cognitively generated emotions have been the easiest to implement in AI systems, as emotion theories are usually described with rules and lend themselves directly to rule-based implemntation in a computer. This chapter also describes various ways to synthesize emotion's influence on other processes: both cognitive and physical.
 
 Emotions implemented in agents today are primarily cognitively generated. Furthermore, they have mostly been used only for entertainment purposes instead of using emotions to help manage information overload, regulate prioritization of activities, and make decisions more flexibly, creatively, and intelligently. This is a fine ue, and valuable for many applications, but it should not be the the only use.
+
 1. **Emotion Synthesis via Cognitive Mechanisms**
+
 	- **The Ortory Clore Collins (OCC) Cognitive Model**
 		- In 1988 Ortony, Clore and Collins published their book, *The Cognitive Structure of Emotions*, setting forth a model of cognitive appraisal for emotions that has come to be called the *OCC* model.
 		- They believed that AI systems must be able to *reason about* emotions- especially for natural language understanding, cooperative problem solving, and planning.
 		- The OCC model addresses the problem of representing emotions by grouping emotions, according to cognitive eliciting conditions.
 		- It assumes that emotions arise from valenced reactions to situations consisting of events, agents, and objects.
 
-		![The OCC Cognitive structure of emotions](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.idsia.ch%2F~steunebrink%2FPublications%2FKI09_OCC_revisited.pdf&psig=AOvVaw0R_CKfpt6C9TH5no4JYSLY&ust=1585822526192000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjTnbX_xugCFQAAAAAdAAAAABAV)
+		![The OCC Cognitive structure of emotions](https://d3i71xaburhd42.cloudfront.net/eac2208e75f5d72a5582c5455cdcd021621c4736/2-Figure1-1.png)
 	- **Emotions and Moods for Animated Characters**
 		- One of the emotion
 	- **Emotions in Social Relationships**
