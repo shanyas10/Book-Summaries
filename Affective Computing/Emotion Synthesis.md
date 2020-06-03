@@ -11,14 +11,12 @@ Emotions implemented in agents today are primarily cognitively generated. Furthe
 		- They believed that AI systems must be able to *reason about* emotions- especially for natural language understanding, cooperative problem solving, and planning.
 		- The OCC model addresses the problem of representing emotions by grouping emotions, according to cognitive eliciting conditions.
 		- It assumes that emotions arise from valenced reactions to situations consisting of events, agents, and objects.
-
-		![The OCC Cognitive structure of emotions](https://d3i71xaburhd42.cloudfront.net/eac2208e75f5d72a5582c5455cdcd021621c4736/2-Figure1-1.png)
-
+		
 
 	- **Roseman's Cognitive Appraisal Model**
 		- Roseman has developed a categorization of the appraisals people make about the events that cause emotions.
 		- He and his collegues constructed a model in which a small number of appraisals interact to give rise to seventeen emotions. 
-		![Roseman's structure for cognitively elicited emotions](https://d3i71xaburhd42.cloudfront.net/997032d08a964d2410a5732d0741ac8598fc8b10/3-Figure2-1.png)
+		
 
 2. **Emotion Synthesis via Multiple Mechanisms**
 		The OCC and Roseman theories provide a rule-based mechanism for cognitive generation of emotions. However, in humans, emotions are generated not only by explicit reasoning, but also by low-level noncognitive influences. This section descibes three models which encompass not only cognitive reasoning for generating emotion, but also additional low-level mechanisms, inspired by human emotion system.
